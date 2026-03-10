@@ -10,7 +10,7 @@ I'm a software developer passionate about building modern web applications, back
 - 🎮 Hobbyist **game developer**
 - 🧠 Interested in **computer graphics and rendering technologies**
 - 🌐 Exploring modern graphics APIs like **WebGL and WebGPU**
-- 🎵 Enjoy **music making and experimenting with digital audio production**
+- 🎵 Enjoy **music making**
 
 ## 🛠 Tech Stack
 
