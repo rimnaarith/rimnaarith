@@ -10,6 +10,7 @@ I'm a software developer passionate about building modern web applications, back
 - 🎮 Hobbyist **game developer**
 - 🧠 Interested in **computer graphics and rendering technologies**
 - 🌐 Exploring modern graphics APIs like **WebGL and WebGPU**
+- 🎵 Enjoy **music making and experimenting with digital audio production**
 
 ## 🛠 Tech Stack
 
@@ -52,6 +53,7 @@ Outside of my main work, I enjoy exploring:
 - 3D graphics programming
 - GPU programming
 - Interactive web experiences
+- Music production
 
 ## 📈 Goals
 
